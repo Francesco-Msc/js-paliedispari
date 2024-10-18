@@ -2,9 +2,8 @@
 Chiedere all’utente di inserire una parola
 Creare una funzione per capire se la parola inserita è palindroma.
 1. richiedo all'utente di inserire una parola.
-2. verifico se è una parola o un numero. 
-3. creo una funzione che verifichi se la parola al contrario è uguale alla parola stessa.
-4. applico una condizione per cui se la parola è palindroma mi stampa "la paola è palindroma".
+2. creo una funzione che verifichi se la parola al contrario è uguale alla parola stessa.
+3. applico una condizione per cui se la parola è palindroma mi stampa "la paola è palindroma".
     altrimenti mi stampa "la parola non è palindroma".
 
 **Pari e Dispari**
