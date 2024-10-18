@@ -2,8 +2,11 @@
 Chiedere all’utente di inserire una parola
 Creare una funzione per capire se la parola inserita è palindroma.
 1. richiedo all'utente di inserire una parola.
-2. creo una funzione che verifichi se la parola al contrario è uguale alla parola stessa.
-3. applico una condizione per cui se la parola è palindroma mi stampa "la paola è palindroma".
+2. trasformo la parola inserita da stinga ad array.
+3. inverto l'ordine dell'array.
+4. trasformo l'array in stringa.
+5. creo una funzione che verifichi se la parola al contrario è uguale alla parola inserita dall'utente.
+6. applico una condizione per cui se la parola è palindroma mi stampa "la paola è palindroma".
     altrimenti mi stampa "la parola non è palindroma".
 
 **Pari e Dispari**
