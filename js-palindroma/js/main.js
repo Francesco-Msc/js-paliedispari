@@ -3,7 +3,7 @@ PROGRAMMA
 ********/
 
 // input parola da analizzare
-const wordInput = (prompt('Inserisci una parola')).toLowerCase;
+const wordInput = (prompt('Inserisci una parola')).toLowerCase();
 const displayResult = document.getElementById('result')
 let text;
 
